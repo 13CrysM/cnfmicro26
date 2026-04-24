@@ -1,0 +1,1481 @@
+[
+  {
+    "id": "1",
+    "zona": "Fresnillo",
+    "regiones": [
+      {
+        "id": "1",
+        "region": "FRESNILLO",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "ATENAS",
+            "cve_mic": 320101001
+          },
+          {
+            "id": "2",
+            "microregion": "SAN DIEGO",
+            "cve_mic": 320101002
+          },
+          {
+            "id": "3",
+            "microregion": "EL ÁLAMO",
+            "cve_mic": 320101003
+          },
+          {
+            "id": "4",
+            "microregion": "EL SALITRILLO",
+            "cve_mic": 320101004
+          },
+          {
+            "id": "5",
+            "microregion": "EL SAUCILLO",
+            "cve_mic": 320101005
+          },
+          {
+            "id": "6",
+            "microregion": "LAGUNA DEL MERCADO",
+            "cve_mic": 320101006
+          },
+          {
+            "id": "7",
+            "microregion": "LAS MERCEDES",
+            "cve_mic": 320101007
+          },
+          {
+            "id": "8",
+            "microregion": "LOS POCITOS",
+            "cve_mic": 320101008
+          },
+          {
+            "id": "9",
+            "microregion": "LOS RÍOS",
+            "cve_mic": 320101009
+          },
+          {
+            "id": "10",
+            "microregion": "POTRERO BLANCO",
+            "cve_mic": 320101010
+          },
+          {
+            "id": "11",
+            "microregion": "SAN ANTONIO DE BUENAVISTA",
+            "cve_mic": 320101011
+          },
+          {
+            "id": "12",
+            "microregion": "SAN ISIDRO CERRO GORDO",
+            "cve_mic": 320101012
+          },
+          {
+            "id": "13",
+            "microregion": "SAN ISIDRO DE TRUJILLO",
+            "cve_mic": 320101013
+          },
+          {
+            "id": "14",
+            "microregion": "SAN JUAN DE LA CASIMIRA",
+            "cve_mic": 320101014
+          },
+          {
+            "id": "15",
+            "microregion": "SAN PEDRO DE ÁBREGO",
+            "cve_mic": 320101015
+          },
+          {
+            "id": "16",
+            "microregion": "SANTA LUCÍA",
+            "cve_mic": 320101016
+          },
+          {
+            "id": "17",
+            "microregion": "SANTA TERESA",
+            "cve_mic": 320101017
+          },
+          {
+            "id": "18",
+            "microregion": "SECTOR LAS CUMBRES",
+            "cve_mic": 320101018
+          },
+          {
+            "id": "19",
+            "microregion": "LA FLOR",
+            "cve_mic": 320101019
+          },
+          {
+            "id": "20",
+            "microregion": "EL REFUGIO DE ÁBREGO",
+            "cve_mic": 320101020
+          },
+          {
+            "id": "21",
+            "microregion": "ESTACIÓN SAN JOSÉ",
+            "cve_mic": 320101021
+          },
+          {
+            "id": "22",
+            "microregion": "LA MANGA",
+            "cve_mic": 320101022
+          },
+          {
+            "id": "23",
+            "microregion": "LABOR DE SANTA BÁRBARA",
+            "cve_mic": 320101023
+          },
+          {
+            "id": "24",
+            "microregion": "MATÍAS RAMOS",
+            "cve_mic": 320101024
+          },
+          {
+            "id": "25",
+            "microregion": "RÍO FLORIDO",
+            "cve_mic": 320101025
+          },
+          {
+            "id": "26",
+            "microregion": "SAN PABLO",
+            "cve_mic": 320101026
+          },
+          {
+            "id": "27",
+            "microregion": "TORREÓN DE LOS PASTORES",
+            "cve_mic": 320101027
+          },
+          {
+            "id": "28",
+            "microregion": "VALLE",
+            "cve_mic": 320101028
+          },
+          {
+            "id": "29",
+            "microregion": "SAN PEDRO DE ÁBREGO",
+            "cve_mic": 320101029
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320101999
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "region": "JEREZ",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "EL CAPULÍN DE LOS RUIZ",
+            "cve_mic": 320106001
+          },
+          {
+            "id": "2",
+            "microregion": "EL HUEJOTE",
+            "cve_mic": 320106002
+          },
+          {
+            "id": "3",
+            "microregion": "IGNACIO ZARAGOZA",
+            "cve_mic": 320106003
+          },
+          {
+            "id": "4",
+            "microregion": "LA LABOR",
+            "cve_mic": 320106004
+          },
+          {
+            "id": "5",
+            "microregion": "LOS FÉLIX",
+            "cve_mic": 320106005
+          },
+          {
+            "id": "6",
+            "microregion": "LOS JUÁREZ",
+            "cve_mic": 320106006
+          },
+          {
+            "id": "7",
+            "microregion": "SAN PEDRO DE LOS NAVA",
+            "cve_mic": 320106007
+          },
+          {
+            "id": "8",
+            "microregion": "SANTA BÁRBARA",
+            "cve_mic": 320106008
+          },
+          {
+            "id": "9",
+            "microregion": "EL TAMBOR",
+            "cve_mic": 320106009
+          },
+          {
+            "id": "10",
+            "microregion": "PUERTA DE CHULA",
+            "cve_mic": 320106010
+          },
+          {
+            "id": "11",
+            "microregion": "LABOR DE SANTA BÁRBARA",
+            "cve_mic": 320106011
+          },
+          {
+            "id": "12",
+            "microregion": "MATÍAS RAMOS",
+            "cve_mic": 320106012
+          },
+          {
+            "id": "13",
+            "microregion": "EL ÁLAMO",
+            "cve_mic": 320106013
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320106999
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "region": "VALPARAÍSO",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "AMECA EL VIEJO",
+            "cve_mic": 320114001
+          },
+          {
+            "id": "2",
+            "microregion": "EL ASTILLERO",
+            "cve_mic": 320114002
+          },
+          {
+            "id": "3",
+            "microregion": "EL REFUGIO (COYOTES)",
+            "cve_mic": 320114003
+          },
+          {
+            "id": "4",
+            "microregion": "EL ROMERILLO",
+            "cve_mic": 320114004
+          },
+          {
+            "id": "5",
+            "microregion": "LA TORRECILLA",
+            "cve_mic": 320114005
+          },
+          {
+            "id": "6",
+            "microregion": "LOS CHARCOS",
+            "cve_mic": 320114006
+          },
+          {
+            "id": "7",
+            "microregion": "SAN DIEGO",
+            "cve_mic": 320114007
+          },
+          {
+            "id": "8",
+            "microregion": "SANTA CRUZ DE TEPETATES 1",
+            "cve_mic": 320114008
+          },
+          {
+            "id": "9",
+            "microregion": "EL RESBALÓN",
+            "cve_mic": 320114009
+          },
+          {
+            "id": "10",
+            "microregion": "LAS POMAS",
+            "cve_mic": 320114010
+          },
+          {
+            "id": "11",
+            "microregion": "RANCHITO DEL TANQUE",
+            "cve_mic": 320114011
+          },
+          {
+            "id": "12",
+            "microregion": "SAN ANTONIO DE PADUA",
+            "cve_mic": 320114012
+          },
+          {
+            "id": "13",
+            "microregion": "SAN JUAN CAPISTRANO",
+            "cve_mic": 320114013
+          },
+          {
+            "id": "14",
+            "microregion": "SANTA CRUZ DE TEPETATES 2",
+            "cve_mic": 320114014
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320114999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "zona": "Sombrerete",
+    "regiones": [
+      {
+        "id": "2",
+        "region": "CHALCHIHUITES",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "EL PINO",
+            "cve_mic": 320502001
+          },
+          {
+            "id": "2",
+            "microregion": "LUIS MOYA DE ABAJO",
+            "cve_mic": 320502002
+          },
+          {
+            "id": "3",
+            "microregion": "OJO DE AGUA DEL MANTO",
+            "cve_mic": 320502003
+          },
+          {
+            "id": "4",
+            "microregion": "RANCHO COLORADO",
+            "cve_mic": 320502004
+          },
+          {
+            "id": "5",
+            "microregion": "VENTURA (BUENAVENTURA)",
+            "cve_mic": 320502005
+          },
+          {
+            "id": "6",
+            "microregion": "FRANCISCO VILLA LA BOQUILLA",
+            "cve_mic": 320502006
+          },
+          {
+            "id": "7",
+            "microregion": "CORRALES",
+            "cve_mic": 320502007
+          },
+          {
+            "id": "8",
+            "microregion": "GUALTERIO",
+            "cve_mic": 320502008
+          },
+          {
+            "id": "9",
+            "microregion": "SAN ANTONIO DEL CERRITO",
+            "cve_mic": 320502009
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320502999
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "region": "RÍO GRANDE",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "RÍO GRANDE",
+            "cve_mic": 320511001
+          },
+          {
+            "id": "2",
+            "microregion": "EL CAÑÓN",
+            "cve_mic": 320511002
+          },
+          {
+            "id": "3",
+            "microregion": "EL TULILLO",
+            "cve_mic": 320511003
+          },
+          {
+            "id": "4",
+            "microregion": "LAS BOCAS",
+            "cve_mic": 320511004
+          },
+          {
+            "id": "5",
+            "microregion": "JUAN ALDAMA",
+            "cve_mic": 320511005
+          },
+          {
+            "id": "6",
+            "microregion": "MIGUEL AUZA",
+            "cve_mic": 320511006
+          },
+          {
+            "id": "7",
+            "microregion": "SAN FELIPE DE JESÚS",
+            "cve_mic": 320511007
+          },
+          {
+            "id": "8",
+            "microregion": "SAN IGNACIO",
+            "cve_mic": 320511008
+          },
+          {
+            "id": "9",
+            "microregion": "PACHECO (ESTACIÓN PACHECO)",
+            "cve_mic": 320511009
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320511999
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "region": "SOMBRERETE",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "EL ÁLAMO",
+            "cve_mic": 320512001
+          },
+          {
+            "id": "2",
+            "microregion": "CORRALES",
+            "cve_mic": 320512002
+          },
+          {
+            "id": "3",
+            "microregion": "EMILIANO ZAPATA",
+            "cve_mic": 320512003
+          },
+          {
+            "id": "4",
+            "microregion": "PROAÑO",
+            "cve_mic": 320512004
+          },
+          {
+            "id": "5",
+            "microregion": "SAN ANTONIO DEL CERRITO (EL CERRITO)",
+            "cve_mic": 320512005
+          },
+          {
+            "id": "6",
+            "microregion": "SAN FRANCISCO DE ÓRGANOS",
+            "cve_mic": 320512006
+          },
+          {
+            "id": "7",
+            "microregion": "SAN JOSÉ DE LA PARADA",
+            "cve_mic": 320512007
+          },
+          {
+            "id": "8",
+            "microregion": "SAN RAFAEL",
+            "cve_mic": 320512008
+          },
+          {
+            "id": "9",
+            "microregion": "VERGELITOS",
+            "cve_mic": 320512009
+          },
+          {
+            "id": "10",
+            "microregion": "SAIN ALTO",
+            "cve_mic": 320512010
+          },
+          {
+            "id": "11",
+            "microregion": "SOMBRERETE",
+            "cve_mic": 320512011
+          },
+          {
+            "id": "12",
+            "microregion": "GUALTERIO",
+            "cve_mic": 320512012
+          },
+          {
+            "id": "13",
+            "microregion": "ATOTONILCO",
+            "cve_mic": 320512013
+          },
+          {
+            "id": "14",
+            "microregion": "EL CARMEN",
+            "cve_mic": 320512014
+          },
+          {
+            "id": "15",
+            "microregion": "FRANCISCO VILLA (LA BOQUILLA)",
+            "cve_mic": 320512015
+          },
+          {
+            "id": "16",
+            "microregion": "PROVIDENCIA",
+            "cve_mic": 320512016
+          },
+          {
+            "id": "17",
+            "microregion": "SAN ANTONIO DEL CERRITO",
+            "cve_mic": 320512017
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320512999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "zona": "Guadalupe",
+    "regiones": [
+      {
+        "id": "3",
+        "region": "CONCEPCIÓN DEL ORO",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "APIZOLAYA",
+            "cve_mic": 320203001
+          },
+          {
+            "id": "2",
+            "microregion": "BANDERITA DOS",
+            "cve_mic": 320203002
+          },
+          {
+            "id": "3",
+            "microregion": "CERRITOS DE JESÚS",
+            "cve_mic": 320203003
+          },
+          {
+            "id": "4",
+            "microregion": "CONCEPCIÓN DEL ORO",
+            "cve_mic": 320203004
+          },
+          {
+            "id": "5",
+            "microregion": "EL PEÑASQUITO",
+            "cve_mic": 320203005
+          },
+          {
+            "id": "6",
+            "microregion": "FRANCISCO VILLA",
+            "cve_mic": 320203006
+          },
+          {
+            "id": "7",
+            "microregion": "MARTINEZ DOMINGUEZ",
+            "cve_mic": 320203007
+          },
+          {
+            "id": "8",
+            "microregion": "MATAMOROS",
+            "cve_mic": 320203008
+          },
+          {
+            "id": "9",
+            "microregion": "POZO HIDALGO",
+            "cve_mic": 320203009
+          },
+          {
+            "id": "10",
+            "microregion": "SÁBANA GRANDE",
+            "cve_mic": 320203010
+          },
+          {
+            "id": "11",
+            "microregion": "SAN JOSÉ DEL MEZQUITAL",
+            "cve_mic": 320203011
+          },
+          {
+            "id": "12",
+            "microregion": "SAN TIBURCIO",
+            "cve_mic": 320203012
+          },
+          {
+            "id": "13",
+            "microregion": "TANQUE NUEVO",
+            "cve_mic": 320203013
+          },
+          {
+            "id": "14",
+            "microregion": "TANQUE VIEJO",
+            "cve_mic": 320203014
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320203999
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "region": "GUADALUPE",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "CALERA",
+            "cve_mic": 320204001
+          },
+          {
+            "id": "2",
+            "microregion": "CHUPADEROS",
+            "cve_mic": 320204002
+          },
+          {
+            "id": "3",
+            "microregion": "CIENEGUILLAS",
+            "cve_mic": 320204003
+          },
+          {
+            "id": "4",
+            "microregion": "CIENEGUITAS DE TAPIAS",
+            "cve_mic": 320204004
+          },
+          {
+            "id": "5",
+            "microregion": "EL PUENTE MATA PULGAS",
+            "cve_mic": 320204005
+          },
+          {
+            "id": "6",
+            "microregion": "GUADALUPE",
+            "cve_mic": 320204006
+          },
+          {
+            "id": "7",
+            "microregion": "LA CHOLE",
+            "cve_mic": 320204007
+          },
+          {
+            "id": "8",
+            "microregion": "LAGUNA HONDA",
+            "cve_mic": 320204008
+          },
+          {
+            "id": "9",
+            "microregion": "MIGUEL HIDALGO",
+            "cve_mic": 320204009
+          },
+          {
+            "id": "10",
+            "microregion": "MORELOS",
+            "cve_mic": 320204010
+          },
+          {
+            "id": "11",
+            "microregion": "PÁNUCO",
+            "cve_mic": 320204011
+          },
+          {
+            "id": "12",
+            "microregion": "PIEDRAS CARGADAS",
+            "cve_mic": 320204012
+          },
+          {
+            "id": "13",
+            "microregion": "SANTA TERESA",
+            "cve_mic": 320204013
+          },
+          {
+            "id": "14",
+            "microregion": "SIERRA VIEJA",
+            "cve_mic": 320204014
+          },
+          {
+            "id": "15",
+            "microregion": "TACOALECHE",
+            "cve_mic": 320204015
+          },
+          {
+            "id": "16",
+            "microregion": "VILLA DE COS",
+            "cve_mic": 320204016
+          },
+          {
+            "id": "17",
+            "microregion": "LA LUZ",
+            "cve_mic": 320204017
+          },
+          {
+            "id": "18",
+            "microregion": "MARTÍNEZ DOMÍNGUEZ",
+            "cve_mic": 320204018
+          },
+          {
+            "id": "19",
+            "microregion": "EFIGENIA",
+            "cve_mic": 320204019
+          },
+          {
+            "id": "20",
+            "microregion": "LAS CANOAS",
+            "cve_mic": 320204020
+          },
+          {
+            "id": "21",
+            "microregion": "GONZÁLEZ ORTEGA (BAÑON)",
+            "cve_mic": 320204021
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320204999
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "region": "OJOCALIENTE",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "COLONIA LOS RIVERA",
+            "cve_mic": 320209001
+          },
+          {
+            "id": "2",
+            "microregion": "GRANJA LEYVA",
+            "cve_mic": 320209002
+          },
+          {
+            "id": "3",
+            "microregion": "LA MANGA",
+            "cve_mic": 320209003
+          },
+          {
+            "id": "4",
+            "microregion": "LA TESORERA",
+            "cve_mic": 320209004
+          },
+          {
+            "id": "5",
+            "microregion": "OJOCALIENTE",
+            "cve_mic": 320209005
+          },
+          {
+            "id": "6",
+            "microregion": "PROVIDENCIA",
+            "cve_mic": 320209006
+          },
+          {
+            "id": "7",
+            "microregion": "JARILLAS (EX-HACIENDA DE JARILLAS)",
+            "cve_mic": 320209007
+          },
+          {
+            "id": "8",
+            "microregion": "SANTA ELENA",
+            "cve_mic": 320209008
+          },
+          {
+            "id": "9",
+            "microregion": "SAN PEDRO",
+            "cve_mic": 320209009
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320209999
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "region": "VILLANUEVA",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "LA QUEMADA",
+            "cve_mic": 320215001
+          },
+          {
+            "id": "2",
+            "microregion": "LA MAGUEYERA",
+            "cve_mic": 320215002
+          },
+          {
+            "id": "3",
+            "microregion": "MARAVILLAS",
+            "cve_mic": 320215003
+          },
+          {
+            "id": "4",
+            "microregion": "TAYAHUA",
+            "cve_mic": 320215004
+          },
+          {
+            "id": "5",
+            "microregion": "VILLANUEVA",
+            "cve_mic": 320215005
+          },
+          {
+            "id": "6",
+            "microregion": "SAN DIEGO",
+            "cve_mic": 320215006
+          },
+          {
+            "id": "7",
+            "microregion": "CIENEGUILLAS",
+            "cve_mic": 320215007
+          },
+          {
+            "id": "8",
+            "microregion": "LOS CAÑOS",
+            "cve_mic": 320215008
+          },
+          {
+            "id": "9",
+            "microregion": "MIGUEL HIDALGO",
+            "cve_mic": 320215009
+          },
+          {
+            "id": "10",
+            "microregion": "PICONES",
+            "cve_mic": 320215010
+          },
+          {
+            "id": "11",
+            "microregion": "CARRETERO",
+            "cve_mic": 320215011
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320215999
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "region": "VILLA DE COS",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "BAÑON",
+            "cve_mic": 320217001
+          },
+          {
+            "id": "2",
+            "microregion": "CALERA",
+            "cve_mic": 320217002
+          },
+          {
+            "id": "3",
+            "microregion": "CHUPADEROS",
+            "cve_mic": 320217003
+          },
+          {
+            "id": "4",
+            "microregion": "EFIGENIA",
+            "cve_mic": 320217004
+          },
+          {
+            "id": "5",
+            "microregion": "LAS CANOAS",
+            "cve_mic": 320217005
+          },
+          {
+            "id": "6",
+            "microregion": "MATA PULGAS",
+            "cve_mic": 320217006
+          },
+          {
+            "id": "7",
+            "microregion": "PÁNUCO",
+            "cve_mic": 320217007
+          },
+          {
+            "id": "8",
+            "microregion": "SIERRA VIEJA",
+            "cve_mic": 320217008
+          },
+          {
+            "id": "9",
+            "microregion": "VILLA DE COS",
+            "cve_mic": 320217009
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320217999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "zona": "Jalpa",
+    "regiones": [
+      {
+        "id": "5",
+        "region": "JALPA",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "APOZOL",
+            "cve_mic": 320305001
+          },
+          {
+            "id": "2",
+            "microregion": "COLONIA MORELOS",
+            "cve_mic": 320305002
+          },
+          {
+            "id": "3",
+            "microregion": "CUXPALA",
+            "cve_mic": 320305003
+          },
+          {
+            "id": "4",
+            "microregion": "JALPA",
+            "cve_mic": 320305004
+          },
+          {
+            "id": "5",
+            "microregion": "JUCHIPILA",
+            "cve_mic": 320305005
+          },
+          {
+            "id": "6",
+            "microregion": "LA LABOR",
+            "cve_mic": 320305006
+          },
+          {
+            "id": "7",
+            "microregion": "LA LAGUNA",
+            "cve_mic": 320305007
+          },
+          {
+            "id": "8",
+            "microregion": "MOYAHUA DE ESTRADA",
+            "cve_mic": 320305008
+          },
+          {
+            "id": "9",
+            "microregion": "NOCHISTLÁN DE MEJÍA",
+            "cve_mic": 320305009
+          },
+          {
+            "id": "10",
+            "microregion": "OJO DE AGUA",
+            "cve_mic": 320305010
+          },
+          {
+            "id": "11",
+            "microregion": "PLAN DEL SAUZ",
+            "cve_mic": 320305011
+          },
+          {
+            "id": "12",
+            "microregion": "PORVENIR DEL NORTE",
+            "cve_mic": 320305012
+          },
+          {
+            "id": "13",
+            "microregion": "SAN FRANCISCO",
+            "cve_mic": 320305013
+          },
+          {
+            "id": "14",
+            "microregion": "SANTA JUANA (IGNACIO ZARAGOZA)",
+            "cve_mic": 320305014
+          },
+          {
+            "id": "15",
+            "microregion": "TABASCO",
+            "cve_mic": 320305015
+          },
+          {
+            "id": "16",
+            "microregion": "TENAYUCA",
+            "cve_mic": 320305016
+          },
+          {
+            "id": "17",
+            "microregion": "TOYAHUA DE ABAJO",
+            "cve_mic": 320305017
+          },
+          {
+            "id": "18",
+            "microregion": "SANTIAGO EL CHIQUE (EL CHIQUE)",
+            "cve_mic": 320305018
+          },
+          {
+            "id": "19",
+            "microregion": "EL TUICHE",
+            "cve_mic": 320305019
+          },
+          {
+            "id": "20",
+            "microregion": "PALMA CUATA",
+            "cve_mic": 320305020
+          },
+          {
+            "id": "21",
+            "microregion": "EL TULE",
+            "cve_mic": 320305021
+          },
+          {
+            "id": "22",
+            "microregion": "HUANUSCO",
+            "cve_mic": 320305022
+          },
+          {
+            "id": "23",
+            "microregion": "ZAPOTE DE ABAJO",
+            "cve_mic": 320305023
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320305999
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "region": "TLALTENANGO",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "ARROYO DE LAS CONCHAS",
+            "cve_mic": 320313001
+          },
+          {
+            "id": "2",
+            "microregion": "CIÉNEGA DE VILLARREALES",
+            "cve_mic": 320313002
+          },
+          {
+            "id": "3",
+            "microregion": "CICACALCO",
+            "cve_mic": 320313003
+          },
+          {
+            "id": "4",
+            "microregion": "HACIENDA VIEJA",
+            "cve_mic": 320313004
+          },
+          {
+            "id": "5",
+            "microregion": "LOS LLAMAS",
+            "cve_mic": 320313005
+          },
+          {
+            "id": "6",
+            "microregion": "LOS RAMOS",
+            "cve_mic": 320313006
+          },
+          {
+            "id": "7",
+            "microregion": "MEZQUITAL DEL ORO",
+            "cve_mic": 320313007
+          },
+          {
+            "id": "8",
+            "microregion": "SANTA MARÍA DE LA PAZ",
+            "cve_mic": 320313008
+          },
+          {
+            "id": "9",
+            "microregion": "TEPECHITLÁN",
+            "cve_mic": 320313009
+          },
+          {
+            "id": "10",
+            "microregion": "TLALTENANGO",
+            "cve_mic": 320313010
+          },
+          {
+            "id": "11",
+            "microregion": "SAN PEDRO OCOTLÁN",
+            "cve_mic": 320313011
+          },
+          {
+            "id": "12",
+            "microregion": "TEOCALTICHE",
+            "cve_mic": 320313012
+          },
+          {
+            "id": "13",
+            "microregion": "TIERRAS MORADAS",
+            "cve_mic": 320313013
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320313999
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "region": "NOCHISTLÁN",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "LA LABOR",
+            "cve_mic": 320316001
+          },
+          {
+            "id": "2",
+            "microregion": "LA LAGUNA",
+            "cve_mic": 320316002
+          },
+          {
+            "id": "3",
+            "microregion": "NOCHISTLÁN DE MEJÍA 1",
+            "cve_mic": 320316003
+          },
+          {
+            "id": "4",
+            "microregion": "NOCHISTLÁN DE MEJÍA 2",
+            "cve_mic": 320316004
+          },
+          {
+            "id": "5",
+            "microregion": "OJO DE AGUA",
+            "cve_mic": 320316005
+          },
+          {
+            "id": "6",
+            "microregion": "PLAN DEL SAUZ",
+            "cve_mic": 320316006
+          },
+          {
+            "id": "7",
+            "microregion": "PORVENIR DEL NORTE",
+            "cve_mic": 320316007
+          },
+          {
+            "id": "8",
+            "microregion": "TOYAHUA DE ABAJO",
+            "cve_mic": 320316008
+          },
+          {
+            "id": "9",
+            "microregion": "SANTA JUANA (IGNACIO ZARAGOZA)",
+            "cve_mic": 320316009
+          },
+          {
+            "id": "10",
+            "microregion": "ZAPOTE DE ABAJO",
+            "cve_mic": 320316010
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320316999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "zona": "Pinos",
+    "regiones": [
+      {
+        "id": "7",
+        "region": "LORETO",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "LORETO",
+            "cve_mic": 320407001
+          },
+          {
+            "id": "2",
+            "microregion": "NORIAS DE GUADALUPE",
+            "cve_mic": 320407002
+          },
+          {
+            "id": "3",
+            "microregion": "LA ALQUERÍA",
+            "cve_mic": 320407003
+          },
+          {
+            "id": "4",
+            "microregion": "LA BALLENA",
+            "cve_mic": 320407004
+          },
+          {
+            "id": "5",
+            "microregion": "LA FLORIDA",
+            "cve_mic": 320407005
+          },
+          {
+            "id": "6",
+            "microregion": "LA MONTESA",
+            "cve_mic": 320407006
+          },
+          {
+            "id": "7",
+            "microregion": "TIERRITAS BLANCAS",
+            "cve_mic": 320407007
+          },
+          {
+            "id": "8",
+            "microregion": "COL. HIDALGO (EL TECOLOTE)",
+            "cve_mic": 320407008
+          },
+          {
+            "id": "9",
+            "microregion": "EL LUCERO",
+            "cve_mic": 320407009
+          },
+          {
+            "id": "10",
+            "microregion": "IGNACIO ZARAGOZA",
+            "cve_mic": 320407010
+          },
+          {
+            "id": "11",
+            "microregion": "RANCHO NUEVO",
+            "cve_mic": 320407011
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320407999
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "region": "NORIA DE ÁNGELES",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "EL LUCERO",
+            "cve_mic": 320408001
+          },
+          {
+            "id": "2",
+            "microregion": "EL REFUGIO",
+            "cve_mic": 320408002
+          },
+          {
+            "id": "3",
+            "microregion": "RANCHO NUEVO DE MORELOS",
+            "cve_mic": 320408003
+          },
+          {
+            "id": "4",
+            "microregion": "TIERRA BLANCA",
+            "cve_mic": 320408004
+          },
+          {
+            "id": "5",
+            "microregion": "EL CONEJO",
+            "cve_mic": 320408005
+          },
+          {
+            "id": "6",
+            "microregion": "EL OBRAJE",
+            "cve_mic": 320408006
+          },
+          {
+            "id": "7",
+            "microregion": "EL SITIO",
+            "cve_mic": 320408007
+          },
+          {
+            "id": "8",
+            "microregion": "LA BALLENA",
+            "cve_mic": 320408008
+          },
+          {
+            "id": "9",
+            "microregion": "LA CRUZ",
+            "cve_mic": 320408009
+          },
+          {
+            "id": "10",
+            "microregion": "LA ESTRELLA",
+            "cve_mic": 320408010
+          },
+          {
+            "id": "11",
+            "microregion": "LA JAULILLA",
+            "cve_mic": 320408011
+          },
+          {
+            "id": "12",
+            "microregion": "LA VICTORIA",
+            "cve_mic": 320408012
+          },
+          {
+            "id": "13",
+            "microregion": "SAN MANUEL",
+            "cve_mic": 320408013
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320408999
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "region": "PINOS",
+        "microregiones": [
+          {
+            "id": "1",
+            "microregion": "BUENAVISTA (LA PENDENCIA)",
+            "cve_mic": 320410001
+          },
+          {
+            "id": "2",
+            "microregion": "EL BRAVO",
+            "cve_mic": 320410002
+          },
+          {
+            "id": "3",
+            "microregion": "EL CONEJO",
+            "cve_mic": 320410003
+          },
+          {
+            "id": "4",
+            "microregion": "EL HUIZACHE",
+            "cve_mic": 320410004
+          },
+          {
+            "id": "5",
+            "microregion": "EL SITIO",
+            "cve_mic": 320410005
+          },
+          {
+            "id": "6",
+            "microregion": "FONSECA ANEXO A SANTIAGO",
+            "cve_mic": 320410006
+          },
+          {
+            "id": "7",
+            "microregion": "GUADALUPE DE LOS POZOS",
+            "cve_mic": 320410007
+          },
+          {
+            "id": "8",
+            "microregion": "GUADALUPE DE LOS POZOSX",
+            "cve_mic": 320410008
+          },
+          {
+            "id": "9",
+            "microregion": "IGNACIO ZARAGOZA",
+            "cve_mic": 320410009
+          },
+          {
+            "id": "10",
+            "microregion": "LA CRUZ",
+            "cve_mic": 320410010
+          },
+          {
+            "id": "11",
+            "microregion": "LA ESCONDIDA",
+            "cve_mic": 320410011
+          },
+          {
+            "id": "12",
+            "microregion": "LA JAULA DE ARRIBA",
+            "cve_mic": 320410012
+          },
+          {
+            "id": "13",
+            "microregion": "LA PENDENCIA",
+            "cve_mic": 320410013
+          },
+          {
+            "id": "14",
+            "microregion": "VICTORIA",
+            "cve_mic": 320410014
+          },
+          {
+            "id": "15",
+            "microregion": "LOMA LINDA",
+            "cve_mic": 320410015
+          },
+          {
+            "id": "16",
+            "microregion": "EL OBRAJE",
+            "cve_mic": 320410016
+          },
+          {
+            "id": "17",
+            "microregion": "PASO BLANCO",
+            "cve_mic": 320410017
+          },
+          {
+            "id": "18",
+            "microregion": "PINOS",
+            "cve_mic": 320410018
+          },
+          {
+            "id": "19",
+            "microregion": "PURÍSIMA DEL SALTO",
+            "cve_mic": 320410019
+          },
+          {
+            "id": "20",
+            "microregion": "SAN MANUEL",
+            "cve_mic": 320410020
+          },
+          {
+            "id": "21",
+            "microregion": "TRINIDAD NORTE",
+            "cve_mic": 320410021
+          },
+          {
+            "id": "22",
+            "microregion": "VÍA CORTA EL PATROCINIO",
+            "cve_mic": 320410022
+          },
+          {
+            "id": "23",
+            "microregion": "EL COYOTE FONSECA",
+            "cve_mic": 320410023
+          },
+          {
+            "id": "24",
+            "microregion": "LA PURÍSIMA",
+            "cve_mic": 320410024
+          },
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 320410999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "zona": "#N/D",
+    "regiones": [
+      {
+        "id": "99",
+        "region": "Sin asignar",
+        "microregiones": [
+          {
+            "id": "999",
+            "microregion": "Sin asignar",
+            "cve_mic": 329999999
+          }
+        ]
+      }
+    ]
+  }
+]

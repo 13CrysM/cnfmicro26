@@ -1,9 +1,11 @@
-export default function Table({ data }: { data: any[] }) {
+export default function Table<T extends Record<string, unknown>>({ data }: { data: T[] }) {
+    if (data.length === 0) return null;
+
     return (
         <table>
             <thead>
                 <tr>
-                    {Object.keys(data[0] || {}).map((key) => (
+                    {Object.keys(data[0]).map((key) => (
                         <th key={key}>{key}</th>
                     ))}
                 </tr>
